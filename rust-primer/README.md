@@ -41,4 +41,14 @@ Module 4 focuses on serialization and deserialization, which is a basic but sign
 - Serde Part 4
 - Result Option
 
+## [Module 5](/module_5/README.md)
+- Traits
+- Threading
+- Useful Rust Standard Library Types (rc / arc / mutex / rwlock)
+
+## [Module 6](/module_6/README.md)
+Module 6 provides an overall picture of CrustyDB by proposing some guiding questions before we get our hands dirty on it. 
+- CrustyDB Walkthough 
+
+
 
